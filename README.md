@@ -5,7 +5,7 @@ Skills pour Claude Code, issus du pack « Des designs IA qui ne font pas IA » (
 Installation :
 
 ```bash
-npx skills add komielie-creator/mes-skills -g -y
+npx skills add "komielie-creator/mes-skills." -g -y
 ```
 
 Licences : `skills/gsap` © GreenSock, MIT (voir son fichier LICENSE).
